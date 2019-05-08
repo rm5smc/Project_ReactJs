@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "phone": "0925992465",
+      "work": "ĐH hà nội",
+      "address": "QUang Nam",
+      "user": "chien",
+      "pass": "chien",
+      "age": "18",
+      "id": 1
+    },
+    {
+      "user": "chien1",
+      "pass": "chien1",
+      "id": 2
+    },
+    {
+      "user": "chien4",
+      "pass": "chien4",
+      "id": 3
+    },
+    {
+      "user": "man",
+      "pass": "man",
+      "id": 4
+    },
+    {
+      "user": "z",
+      "pass": "z",
+      "id": 5
+    },
+    {
+      "user": "v",
+      "pass": "v",
+      "id": 6
+    },
+    {
+      "user": "phu",
+      "pass": "phu",
+      "id": 7
+    },
+    {
+      "phone": "091121212",
+      "work": "asd",
+      "address": "da ang",
+      "user": "user5",
+      "pass": "user5",
+      "age": "18",
+      "id": 8
+    },
+    {
+      "user": "chau",
+      "pass": "chau",
+      "age": "12",
+      "address": "ha noi",
+      "phone": "1212312312312313",
+      "work": "nhaaaa",
+      "id": 9
+    },
+    {
+      "user": "z",
+      "pass": "z",
+      "age": "z",
+      "address": "z",
+      "phone": "z",
+      "work": "z",
+      "id": 10
+    },
+    {
+      "user": "z",
+      "pass": "z",
+      "age": "z",
+      "address": "z",
+      "phone": "z",
+      "work": "z",
+      "id": 11
+    },
+    {
+      "user": "b",
+      "pass": "b",
+      "age": "b",
+      "address": "b",
+      "phone": "b",
+      "work": "b",
+      "id": 12
+    },
+    {
+      "user": "j",
+      "pass": "j",
+      "age": "j",
+      "address": "j",
+      "phone": "j",
+      "work": "j",
+      "id": 13
+    },
+    {
+      "user": "lực",
+      "pass": "luc",
+      "age": "12",
+      "address": "quảng nam",
+      "phone": "1021220222",
+      "work": "Sun",
+      "id": 14
+    },
+    {
+      "user": "linh ",
+      "pass": "linh",
+      "age": "12",
+      "address": "quang nam",
+      "phone": "12312312",
+      "work": "sun",
+      "id": 15
+    },
+    {
+      "user": "ni",
+      "pass": "ni",
+      "age": "12",
+      "address": "áda",
+      "phone": "123",
+      "work": "ádasdasd",
+      "id": 16
+    }
+  ]
+}
